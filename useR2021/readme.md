@@ -1,6 +1,6 @@
 Presentation by Lisa Karstens at the virtual useR2021 conference.   
 
-Slides: [pdf](https://github.com/KarstensLab/Presentations/blob/main/useR2021/Microshades_presentation_UseR_2021.pdf) [html](https://github.com/KarstensLab/Presentations/blob/main/useR2021/Microshades_presentation_UseR_2021.html)  
+Slides with a script of the presentation: [pdf](https://github.com/KarstensLab/Presentations/blob/main/useR2021/Microshades_presentation_UseR_2021.pdf) [html](https://github.com/KarstensLab/Presentations/blob/main/useR2021/Microshades_presentation_UseR_2021.html).   
 
 [Link to repository](https://karstenslab.github.io/microshades)  
 
