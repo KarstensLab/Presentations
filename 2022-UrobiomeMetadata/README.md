@@ -1,6 +1,8 @@
 Presentation by Lisa Karstens at the virtual DMICE seminar: [YouTube](https://www.youtube.com/watch?v=nCxZ8m7bcwY&t=41s)
 
-Slides of the presentation: [pdf](https://github.com/KarstensLab/Presentations/blob/main/2022-UrobiomeMetadata/NMDC_Intro_Urobiome_Metadata.pdf)
+Introduction presentation slides: [pdf](https://github.com/KarstensLab/Presentations/blob/main/2022-UrobiomeMetadata/NMDC_Intro_Urobiome_Metadata.pdf)
+ 
+Workshop presentation slides:
  
 Introduction to Urobiome Metadata Standards
 
