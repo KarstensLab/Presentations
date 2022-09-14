@@ -1,4 +1,4 @@
-Presentation by Lisa Karstens at the virtual useR2021 conference.   
+Presentation by Lisa Karstens, PhD at the virtual useR2021 conference.   
 
 Slides with a script of the presentation: [pdf](https://github.com/KarstensLab/Presentations/blob/main/useR2021/Microshades_presentation_UseR_2021.pdf) [html](https://karstenslab.github.io/Presentations/useR2021/Microshades_presentation_UseR_2021.html).   
 
