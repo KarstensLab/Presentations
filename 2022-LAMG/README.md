@@ -1,4 +1,4 @@
-Poster presentation by Lisa Karstens at the 2022 Lake Arrowhead Microbial Genomics Conference.   
+Poster presentation by Lisa Karstens, PhD at the 2022 Lake Arrowhead Microbial Genomics Conference.   
 
 Poster: [pdf](https://github.com/KarstensLab/Presentations/blob/main/2022-LAMG/2022_LAMG_microshades_poster.pdf).   
 
