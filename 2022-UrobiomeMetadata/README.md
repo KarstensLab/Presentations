@@ -1,4 +1,4 @@
-Presentation by Lisa Karstens at the virtual DMICE seminar: [YouTube](https://www.youtube.com/watch?v=nCxZ8m7bcwY&t=41s)
+Presentation by Lisa Karstens, PhD at the virtual DMICE seminar: [YouTube](https://www.youtube.com/watch?v=nCxZ8m7bcwY&t=41s)
 
 Introduction presentation slides: [pdf](https://github.com/KarstensLab/Presentations/blob/main/2022-UrobiomeMetadata/NMDC_Intro_Urobiome_Metadata.pdf)
  
